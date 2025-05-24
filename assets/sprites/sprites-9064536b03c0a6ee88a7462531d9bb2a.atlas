@@ -1,0 +1,2890 @@
+
+sprites.png
+size: 4096, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+boss/boss-body
+  rotate: false
+  xy: 2, 97
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-body
+  rotate: false
+  xy: 2, 97
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-body
+  rotate: false
+  xy: 295, 499
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-body
+  rotate: false
+  xy: 295, 305
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-body
+  rotate: false
+  xy: 489, 499
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-body
+  rotate: false
+  xy: 489, 305
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-body
+  rotate: false
+  xy: 882, 765
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-body
+  rotate: false
+  xy: 1076, 765
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-head-bowser
+  rotate: false
+  xy: 1270, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-head-bowser
+  rotate: false
+  xy: 1464, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-head-bowser
+  rotate: false
+  xy: 1658, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-head-bowser
+  rotate: false
+  xy: 1852, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-head-bowser
+  rotate: false
+  xy: 2046, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-head-bowser
+  rotate: false
+  xy: 2240, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-head-bowser
+  rotate: false
+  xy: 2434, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-head-bowser
+  rotate: false
+  xy: 2628, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-head-dracula
+  rotate: false
+  xy: 2822, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-head-dracula
+  rotate: false
+  xy: 3016, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-head-dracula
+  rotate: false
+  xy: 3210, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-head-dracula
+  rotate: false
+  xy: 3404, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-head-dracula
+  rotate: false
+  xy: 3598, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-head-dracula
+  rotate: false
+  xy: 3792, 830
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-head-dracula
+  rotate: false
+  xy: 683, 499
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-head-dracula
+  rotate: false
+  xy: 683, 305
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-head-ganon
+  rotate: false
+  xy: 877, 571
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-head-ganon
+  rotate: false
+  xy: 877, 377
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-head-ganon
+  rotate: false
+  xy: 1071, 571
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-head-ganon
+  rotate: false
+  xy: 1071, 377
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-head-ganon
+  rotate: false
+  xy: 196, 97
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-head-ganon
+  rotate: false
+  xy: 390, 111
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-head-ganon
+  rotate: false
+  xy: 584, 111
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-head-ganon
+  rotate: false
+  xy: 778, 111
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-head-wily
+  rotate: false
+  xy: 972, 183
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-head-wily
+  rotate: false
+  xy: 1166, 183
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-head-wily
+  rotate: false
+  xy: 1270, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-head-wily
+  rotate: false
+  xy: 1464, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-head-wily
+  rotate: false
+  xy: 1658, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-head-wily
+  rotate: false
+  xy: 1852, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-head-wily
+  rotate: false
+  xy: 1852, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-head-wily
+  rotate: false
+  xy: 2046, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 2240, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 2434, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 2628, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 2822, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 3016, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 3210, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 3404, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-neck-head-bowser
+  rotate: false
+  xy: 3598, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 3792, 636
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 1265, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 1459, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 1653, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 1847, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 2041, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 2235, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-neck-head-dracula
+  rotate: false
+  xy: 2429, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 2623, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 2817, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 3011, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 3205, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 3399, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 3593, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 3787, 442
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+boss/boss-neck-head-ganon
+  rotate: false
+  xy: 1360, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 1554, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 0
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 1748, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 1
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 1942, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 2
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 2136, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 3
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 2330, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 4
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 2524, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 5
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 2524, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 7
+boss/boss-neck-head-wily
+  rotate: false
+  xy: 2718, 248
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: 6
+captain-n-ostalgia-nes-cart
+  rotate: false
+  xy: 2, 291
+  size: 291, 400
+  orig: 291, 400
+  offset: 0, 0
+  index: -1
+character/belmont/belmont-attack
+  rotate: false
+  xy: 1265, 406
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-attack
+  rotate: false
+  xy: 2912, 256
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 1
+character/belmont/belmont-attack
+  rotate: false
+  xy: 1360, 212
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 2
+character/belmont/belmont-axe
+  rotate: false
+  xy: 4078, 792
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-axe
+  rotate: false
+  xy: 4078, 774
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+character/belmont/belmont-axe
+  rotate: false
+  xy: 4078, 756
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+character/belmont/belmont-axe
+  rotate: false
+  xy: 4078, 738
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+character/belmont/belmont-fall
+  rotate: false
+  xy: 200, 61
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-jump
+  rotate: false
+  xy: 200, 61
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-hurt
+  rotate: false
+  xy: 2992, 256
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-powerattack
+  rotate: false
+  xy: 2992, 256
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-idle
+  rotate: false
+  xy: 1440, 212
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-walk
+  rotate: false
+  xy: 280, 61
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 0
+character/belmont/belmont-walk
+  rotate: false
+  xy: 3072, 256
+  size: 78, 34
+  orig: 78, 34
+  offset: 0, 0
+  index: 1
+character/hero/hero-attack
+  rotate: false
+  xy: 105, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-attack
+  rotate: false
+  xy: 125, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-attack
+  rotate: false
+  xy: 145, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-attack
+  rotate: false
+  xy: 165, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-attack-effect
+  rotate: false
+  xy: 1319, 386
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-attack-effect
+  rotate: false
+  xy: 45, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-attack-effect
+  rotate: false
+  xy: 65, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-attack-effect
+  rotate: false
+  xy: 85, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 140
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 120
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 100
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 80
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 60
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+character/hero/hero-death
+  rotate: false
+  xy: 1498, 40
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+character/hero/hero-death
+  rotate: false
+  xy: 943, 307
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+character/hero/hero-death
+  rotate: false
+  xy: 3989, 320
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 8
+character/hero/hero-fall
+  rotate: false
+  xy: 3988, 300
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-fall
+  rotate: false
+  xy: 3988, 280
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-fall
+  rotate: false
+  xy: 1354, 32
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-hurt
+  rotate: false
+  xy: 1374, 32
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-hurt
+  rotate: false
+  xy: 1332, 10
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-hurt
+  rotate: false
+  xy: 4009, 330
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-idle
+  rotate: false
+  xy: 4029, 330
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-idle
+  rotate: false
+  xy: 4049, 330
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-idle
+  rotate: false
+  xy: 4009, 310
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-idle
+  rotate: false
+  xy: 4029, 310
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-jump
+  rotate: false
+  xy: 4049, 310
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-jump
+  rotate: false
+  xy: 4008, 290
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-jump
+  rotate: false
+  xy: 4028, 290
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-land-effect
+  rotate: false
+  xy: 4048, 290
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-land-effect
+  rotate: false
+  xy: 4008, 270
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-land-effect
+  rotate: false
+  xy: 4028, 270
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-land-effect
+  rotate: false
+  xy: 4048, 270
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-land-effect
+  rotate: false
+  xy: 2916, 200
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+character/hero/hero-land-effect
+  rotate: false
+  xy: 2936, 200
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+character/hero/hero-land-effect
+  rotate: false
+  xy: 2956, 200
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 7
+character/hero/hero-run
+  rotate: false
+  xy: 2976, 200
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+character/hero/hero-run
+  rotate: false
+  xy: 2996, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+character/hero/hero-run
+  rotate: false
+  xy: 3016, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+character/hero/hero-run
+  rotate: false
+  xy: 3036, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 4
+character/hero/hero-run
+  rotate: false
+  xy: 3056, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 5
+character/hero/hero-run
+  rotate: false
+  xy: 3076, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 6
+character/link/link-attack
+  rotate: false
+  xy: 1620, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-attack
+  rotate: false
+  xy: 4052, 952
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/link/link-powerattack
+  rotate: false
+  xy: 4052, 952
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-fall
+  rotate: false
+  xy: 3188, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-jump
+  rotate: false
+  xy: 3188, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/link/link-walk
+  rotate: false
+  xy: 3188, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/link/link-hurt
+  rotate: false
+  xy: 1656, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-idle
+  rotate: false
+  xy: 4052, 916
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-jump
+  rotate: false
+  xy: 3224, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-sword
+  rotate: false
+  xy: 860, 754
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 0
+character/link/link-sword
+  rotate: false
+  xy: 185, 19
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 1
+character/link/link-sword
+  rotate: false
+  xy: 1516, 162
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 2
+character/link/link-sword
+  rotate: false
+  xy: 3418, 210
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 3
+character/link/link-walk
+  rotate: false
+  xy: 1692, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/link/link-walk
+  rotate: false
+  xy: 4052, 880
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/mario/mario-attack
+  rotate: false
+  xy: 3260, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-powerattack
+  rotate: false
+  xy: 3260, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-fall
+  rotate: false
+  xy: 1728, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-jump
+  rotate: false
+  xy: 1728, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/mario/mario-fireball
+  rotate: false
+  xy: 295, 292
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 0
+character/mario/mario-fireball
+  rotate: false
+  xy: 794, 695
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 1
+character/mario/mario-fireball
+  rotate: false
+  xy: 1345, 429
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 2
+character/mario/mario-fireball
+  rotate: false
+  xy: 396, 64
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 3
+character/mario/mario-hurt
+  rotate: false
+  xy: 4052, 844
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-idle
+  rotate: false
+  xy: 3296, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-jump
+  rotate: false
+  xy: 1764, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-walk
+  rotate: false
+  xy: 3332, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/mario/mario-walk
+  rotate: false
+  xy: 1800, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/mario/mario-walk
+  rotate: false
+  xy: 3368, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/megaman/megaman-attack
+  rotate: false
+  xy: 1836, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-powerattack
+  rotate: false
+  xy: 1836, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-fall
+  rotate: false
+  xy: 3404, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-jump
+  rotate: false
+  xy: 3404, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-hurt
+  rotate: false
+  xy: 1872, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-idle
+  rotate: false
+  xy: 3440, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-idle
+  rotate: false
+  xy: 1908, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/megaman/megaman-powershot
+  rotate: false
+  xy: 2, 31
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-powershot
+  rotate: false
+  xy: 3986, 892
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+character/megaman/megaman-shot
+  rotate: false
+  xy: 1396, 178
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-walk
+  rotate: false
+  xy: 3476, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/megaman/megaman-walk
+  rotate: false
+  xy: 1944, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/megaman/megaman-walk
+  rotate: false
+  xy: 1980, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-attack
+  rotate: false
+  xy: 2016, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2016, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 4
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2016, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-attack
+  rotate: false
+  xy: 2052, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2052, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-attack
+  rotate: false
+  xy: 2088, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2088, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-attack
+  rotate: false
+  xy: 2124, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2124, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+character/oldman/oldman-fall
+  rotate: false
+  xy: 2160, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-fall
+  rotate: false
+  xy: 2196, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2232, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2268, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2304, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2340, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2340, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 5
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2376, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 4
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2376, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 6
+character/oldman/oldman-hurt
+  rotate: false
+  xy: 2412, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 7
+character/oldman/oldman-idle
+  rotate: false
+  xy: 2448, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-idle
+  rotate: false
+  xy: 2484, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-idle
+  rotate: false
+  xy: 2520, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-idle
+  rotate: false
+  xy: 2556, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+character/oldman/oldman-jump
+  rotate: false
+  xy: 2592, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-jump
+  rotate: false
+  xy: 2628, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2664, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 5
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2664, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 8
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2700, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 6
+character/oldman/oldman-powerattack
+  rotate: false
+  xy: 2700, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 7
+character/oldman/oldman-walk
+  rotate: false
+  xy: 2736, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+character/oldman/oldman-walk
+  rotate: false
+  xy: 2772, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+character/oldman/oldman-walk
+  rotate: false
+  xy: 2808, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+character/oldman/oldman-walk
+  rotate: false
+  xy: 2844, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+character/oldman/oldman-walk
+  rotate: false
+  xy: 2880, 212
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 4
+character/oldman/oldman-walk
+  rotate: false
+  xy: 200, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 5
+character/oldman/oldman-walk
+  rotate: false
+  xy: 236, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 6
+character/oldman/oldman-walk
+  rotate: false
+  xy: 272, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 7
+effects/fire
+  rotate: false
+  xy: 3292, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+effects/fire
+  rotate: false
+  xy: 3310, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+effects/fire
+  rotate: false
+  xy: 3328, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+effects/fire
+  rotate: false
+  xy: 3346, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+effects/fire
+  rotate: false
+  xy: 3364, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+enemies/castlevania/bat/bat
+  rotate: false
+  xy: 860, 766
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+enemies/castlevania/bat/bat
+  rotate: false
+  xy: 25, 11
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+enemies/castlevania/bat/bat
+  rotate: false
+  xy: 3969, 320
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+enemies/castlevania/eagle/eagle
+  rotate: false
+  xy: 4052, 988
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 0
+enemies/castlevania/eagle/eagle
+  rotate: false
+  xy: 3152, 256
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+enemies/castlevania/medusa/medusa
+  rotate: false
+  xy: 3096, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+enemies/castlevania/medusa/medusa
+  rotate: false
+  xy: 3116, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+enemies/castlevania/monkey/monkey-jump
+  rotate: false
+  xy: 3136, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+enemies/castlevania/monkey/monkey-walk
+  rotate: false
+  xy: 3136, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+enemies/castlevania/monkey/monkey-walk
+  rotate: false
+  xy: 3156, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+enemies/castlevania/skeleton/skeleton-attack
+  rotate: false
+  xy: 308, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+enemies/castlevania/skeleton/skeleton-attack
+  rotate: false
+  xy: 360, 61
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+enemies/castlevania/skeleton/skeleton-attack
+  rotate: false
+  xy: 344, 25
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 3
+enemies/castlevania/skeleton/skeleton-bone
+  rotate: false
+  xy: 3176, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 0
+enemies/castlevania/skeleton/skeleton-bone
+  rotate: false
+  xy: 3196, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 1
+enemies/castlevania/skeleton/skeleton-bone
+  rotate: false
+  xy: 3216, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 2
+enemies/castlevania/skeleton/skeleton-bone
+  rotate: false
+  xy: 3236, 202
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 3
+enemies/castlevania/skeleton/skeleton-move
+  rotate: false
+  xy: 2916, 220
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 1
+enemies/castlevania/skeleton/skeleton-move
+  rotate: false
+  xy: 2952, 220
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: 2
+enemies/mario/angry-sun/angry-sun
+  rotate: false
+  xy: 2988, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/mario/angry-sun/angry-sun
+  rotate: false
+  xy: 3022, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/mario/bullet-bill/bullet-bill
+  rotate: false
+  xy: 3056, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemies/mario/goomba/goomba-death
+  rotate: false
+  xy: 3981, 442
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+enemies/mario/goomba/goomba-walk
+  rotate: false
+  xy: 3382, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+enemies/mario/goomba/goomba-walk
+  rotate: false
+  xy: 3400, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+enemies/mario/koopa/koopa-revive
+  rotate: false
+  xy: 3981, 588
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/mario/koopa/koopa-revive
+  rotate: false
+  xy: 3981, 554
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/mario/koopa/koopa-shell-spin
+  rotate: false
+  xy: 3981, 520
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/mario/koopa/koopa-shell-spin
+  rotate: false
+  xy: 3981, 486
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/mario/koopa/koopa-shell-spin
+  rotate: false
+  xy: 3981, 452
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+enemies/mario/koopa/koopa-walk
+  rotate: false
+  xy: 396, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+enemies/mario/koopa/koopa-walk
+  rotate: false
+  xy: 430, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+enemies/megaman/bat-closed/bat-closed
+  rotate: false
+  xy: 860, 813
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: 0
+enemies/megaman/bat-closed/bat-closed
+  rotate: false
+  xy: 860, 786
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: 1
+enemies/megaman/bat-closed/bat-closed
+  rotate: false
+  xy: 943, 350
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: 2
+enemies/megaman/bat-flying/bat-flying
+  rotate: false
+  xy: 1265, 382
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: 0
+enemies/megaman/bat-flying/bat-flying
+  rotate: false
+  xy: 1360, 188
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: 1
+enemies/megaman/helmet/helmet-idle
+  rotate: false
+  xy: 1297, 383
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 0
+enemies/megaman/helmet/helmet-idle
+  rotate: false
+  xy: 1392, 189
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 1
+enemies/megaman/helmet/helmet-walk
+  rotate: false
+  xy: 1332, 30
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 0
+enemies/megaman/helmet/helmet-walk
+  rotate: false
+  xy: 943, 327
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 1
+enemies/megaman/hothead-idle/hothead-idle
+  rotate: false
+  xy: 3986, 696
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: 0
+enemies/megaman/hothead-idle/hothead-idle
+  rotate: false
+  xy: 3986, 656
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: 1
+enemies/megaman/hothead-throwing/hothead-throwing
+  rotate: false
+  xy: 1520, 208
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: 0
+enemies/megaman/hothead-throwing/hothead-throwing
+  rotate: false
+  xy: 1570, 208
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: 1
+icon/card-stack
+  rotate: false
+  xy: 3986, 958
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/circle-check
+  rotate: false
+  xy: 794, 774
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/circle-x
+  rotate: false
+  xy: 877, 311
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/heart
+  rotate: false
+  xy: 3986, 781
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+icon/heart-broken
+  rotate: false
+  xy: 3986, 736
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+icon/notepad
+  rotate: false
+  xy: 794, 708
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/person-play
+  rotate: false
+  xy: 68, 31
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/person-x
+  rotate: false
+  xy: 3986, 826
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+icon/puzzle
+  rotate: false
+  xy: 134, 31
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+items/energy-capsule
+  rotate: false
+  xy: 3256, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 0
+items/energy-capsule
+  rotate: false
+  xy: 3274, 204
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+items/holy-water
+  rotate: false
+  xy: 962, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+libgdx
+  rotate: false
+  xy: 882, 959
+  size: 378, 63
+  orig: 378, 63
+  offset: 0, 0
+  index: -1
+objects/circle
+  rotate: false
+  xy: 1498, 160
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particles/blood/particle-blood
+  rotate: false
+  xy: 2, 5
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: 1
+particles/blood/particle-blood
+  rotate: false
+  xy: 940, 85
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: 2
+particles/blood/particle-blood-splat
+  rotate: false
+  xy: 25, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 2912, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 2
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 2912, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 30
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3063, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 3
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3063, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 32
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3214, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 6
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3214, 292
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: 35
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3365, 292
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: 1
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3365, 292
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: 29
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3515, 300
+  size: 149, 140
+  orig: 149, 140
+  offset: 0, 0
+  index: 4
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3515, 300
+  size: 149, 140
+  orig: 149, 140
+  offset: 0, 0
+  index: 33
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3666, 302
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: 7
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3666, 302
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: 36
+particles/kenney-puzzle/shape
+  rotate: false
+  xy: 3818, 316
+  size: 149, 124
+  orig: 149, 124
+  offset: 0, 0
+  index: 5
+particles/kenney-puzzle/tileGrey
+  rotate: false
+  xy: 3818, 316
+  size: 149, 124
+  orig: 149, 124
+  offset: 0, 0
+  index: 34
+particles/kenney/circle
+  rotate: false
+  xy: 3090, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/circle
+  rotate: false
+  xy: 3124, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/circle
+  rotate: false
+  xy: 3158, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/circle
+  rotate: false
+  xy: 3192, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/circle
+  rotate: false
+  xy: 3226, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/dirt
+  rotate: false
+  xy: 3260, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/dirt
+  rotate: false
+  xy: 3294, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/dirt
+  rotate: false
+  xy: 3328, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/fire
+  rotate: false
+  xy: 3362, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/fire
+  rotate: false
+  xy: 3396, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/flame
+  rotate: false
+  xy: 3430, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/flame
+  rotate: false
+  xy: 3464, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/flame
+  rotate: false
+  xy: 1362, 154
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/flame
+  rotate: false
+  xy: 1362, 120
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/flame
+  rotate: false
+  xy: 1362, 86
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/flame
+  rotate: false
+  xy: 1362, 52
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/flare
+  rotate: false
+  xy: 3986, 622
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/light
+  rotate: false
+  xy: 464, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/light
+  rotate: false
+  xy: 498, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/light
+  rotate: false
+  xy: 532, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/magic
+  rotate: false
+  xy: 566, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/magic
+  rotate: false
+  xy: 600, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/magic
+  rotate: false
+  xy: 634, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/magic
+  rotate: false
+  xy: 668, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/magic
+  rotate: false
+  xy: 702, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/muzzle
+  rotate: false
+  xy: 736, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/muzzle
+  rotate: false
+  xy: 770, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/muzzle
+  rotate: false
+  xy: 804, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/muzzle
+  rotate: false
+  xy: 838, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/muzzle
+  rotate: false
+  xy: 872, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/scorch
+  rotate: false
+  xy: 4052, 810
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/scorch
+  rotate: false
+  xy: 4044, 776
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/scorch
+  rotate: false
+  xy: 4044, 742
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/scratch
+  rotate: false
+  xy: 380, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/slash
+  rotate: false
+  xy: 414, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/slash
+  rotate: false
+  xy: 448, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/slash
+  rotate: false
+  xy: 482, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/slash
+  rotate: false
+  xy: 516, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/smoke
+  rotate: false
+  xy: 550, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/smoke
+  rotate: false
+  xy: 584, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/smoke
+  rotate: false
+  xy: 618, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/smoke
+  rotate: false
+  xy: 652, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/smoke
+  rotate: false
+  xy: 686, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/smoke
+  rotate: false
+  xy: 720, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/smoke
+  rotate: false
+  xy: 754, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/smoke
+  rotate: false
+  xy: 788, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/kenney/smoke
+  rotate: false
+  xy: 822, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/kenney/smoke
+  rotate: false
+  xy: 856, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+particles/kenney/spark
+  rotate: false
+  xy: 890, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/spark
+  rotate: false
+  xy: 4020, 622
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/spark
+  rotate: false
+  xy: 4015, 588
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/spark
+  rotate: false
+  xy: 4015, 554
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/spark
+  rotate: false
+  xy: 4015, 520
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/spark
+  rotate: false
+  xy: 4015, 486
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/spark
+  rotate: false
+  xy: 4015, 452
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/star
+  rotate: false
+  xy: 3969, 340
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/star
+  rotate: false
+  xy: 4003, 418
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/star
+  rotate: false
+  xy: 4003, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/star
+  rotate: false
+  xy: 4003, 350
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/star
+  rotate: false
+  xy: 4037, 418
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/star
+  rotate: false
+  xy: 4037, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/star
+  rotate: false
+  xy: 4037, 350
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/star
+  rotate: false
+  xy: 1414, 178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/kenney/star
+  rotate: false
+  xy: 1448, 178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/kenney/symbol
+  rotate: false
+  xy: 1482, 178
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/symbol
+  rotate: false
+  xy: 1516, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/trace
+  rotate: false
+  xy: 1550, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/trace
+  rotate: false
+  xy: 1584, 174
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/trace
+  rotate: false
+  xy: 1396, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/trace
+  rotate: false
+  xy: 1396, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/kenney/trace
+  rotate: false
+  xy: 1430, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/kenney/trace
+  rotate: false
+  xy: 1396, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/kenney/trace
+  rotate: false
+  xy: 1430, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/kenney/twirl
+  rotate: false
+  xy: 1464, 144
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/twirl
+  rotate: false
+  xy: 1430, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/twirl
+  rotate: false
+  xy: 1464, 110
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/window
+  rotate: false
+  xy: 1464, 76
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/kenney/window
+  rotate: false
+  xy: 1396, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/kenney/window
+  rotate: false
+  xy: 1430, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/kenney/window
+  rotate: false
+  xy: 1464, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/splats/splat
+  rotate: false
+  xy: 414, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+particles/splats/splat
+  rotate: false
+  xy: 448, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+particles/splats/splat
+  rotate: false
+  xy: 482, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+particles/splats/splat
+  rotate: false
+  xy: 516, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+particles/splats/splat
+  rotate: false
+  xy: 550, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+particles/splats/splat
+  rotate: false
+  xy: 584, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+particles/splats/splat
+  rotate: false
+  xy: 618, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+particles/splats/splat
+  rotate: false
+  xy: 652, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+particles/splats/splat
+  rotate: false
+  xy: 686, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+particles/splats/splat
+  rotate: false
+  xy: 720, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+particles/splats/splat
+  rotate: false
+  xy: 754, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+particles/splats/splat
+  rotate: false
+  xy: 788, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 11
+particles/splats/splat
+  rotate: false
+  xy: 822, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 12
+particles/splats/splat
+  rotate: false
+  xy: 856, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 13
+particles/splats/splat
+  rotate: false
+  xy: 890, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 14
+particles/splats/splat
+  rotate: false
+  xy: 924, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 15
+particles/splats/splat
+  rotate: false
+  xy: 924, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 16
+particles/splats/splat
+  rotate: false
+  xy: 958, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 17
+particles/splats/splat
+  rotate: false
+  xy: 992, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 18
+particles/splats/splat
+  rotate: false
+  xy: 1026, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 19
+particles/splats/splat
+  rotate: false
+  xy: 1060, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+particles/splats/splat
+  rotate: false
+  xy: 1094, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+particles/splats/splat
+  rotate: false
+  xy: 1128, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+particles/splats/splat
+  rotate: false
+  xy: 1162, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 23
+particles/splats/splat
+  rotate: false
+  xy: 1196, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 24
+particles/splats/splat
+  rotate: false
+  xy: 1230, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 25
+particles/splats/splat
+  rotate: false
+  xy: 1264, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 26
+particles/splats/splat
+  rotate: false
+  xy: 1298, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 27
+particles/splats/splat
+  rotate: false
+  xy: 3818, 282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 28
+particles/splats/splat
+  rotate: false
+  xy: 3852, 282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 29
+particles/splats/splat
+  rotate: false
+  xy: 3886, 282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 30
+particles/splats/splat
+  rotate: false
+  xy: 3920, 282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 31
+particles/splats/splat
+  rotate: false
+  xy: 3954, 282
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 32
+particles/splats/splat
+  rotate: false
+  xy: 3498, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 33
+particles/splats/splat
+  rotate: false
+  xy: 3969, 408
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 34
+particles/splats/splat
+  rotate: false
+  xy: 3969, 374
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 35
+patch/plain
+  rotate: false
+  xy: 972, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+patch/plain-dim
+  rotate: false
+  xy: 1102, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+patch/plain-gradient
+  rotate: false
+  xy: 1232, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+patch/rounded
+  rotate: false
+  xy: 906, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+title/title-logo
+  rotate: false
+  xy: 2, 840
+  size: 878, 182
+  orig: 878, 182
+  offset: 0, 0
+  index: -1
+title/title-logo-old
+  rotate: false
+  xy: 2, 693
+  size: 790, 145
+  orig: 790, 145
+  offset: 0, 0
+  index: -1

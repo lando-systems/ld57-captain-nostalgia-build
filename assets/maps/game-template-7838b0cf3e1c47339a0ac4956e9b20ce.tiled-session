@@ -1,0 +1,187 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "tilesets",
+        "templates",
+        "test",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "boss.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 541.75,
+                "y": 231.25
+            }
+        },
+        "castlevania.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 469.33333333333337,
+                "y": 190.66666666666663
+            }
+        },
+        "mario.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 415,
+                "y": 303
+            }
+        },
+        "megaman.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3240.5,
+                "y": 194
+            }
+        },
+        "start.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 117.83333333333334,
+                "y": 54.833333333333314
+            }
+        },
+        "test/home.tmx": {
+            "scale": 3.3992187499999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.88968053321076,
+                "y": 119.88048724431165
+            }
+        },
+        "test/home.tmx#Mario Tileset": {
+            "scaleInDock": 1
+        },
+        "test/start.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 5.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 86.72727272727272,
+                "y": 62.27272727272727
+            }
+        },
+        "test/tilesets/boss-room.tsx": {
+            "scaleInDock": 1
+        },
+        "test/tilesets/dungeon.tsx": {
+            "scaleInDock": 1
+        },
+        "test/tilesets/warp-room.tsx": {
+            "scaleInDock": 1
+        },
+        "tilesets/boss-room.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tilesets/castlevania1.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 3
+        },
+        "tilesets/dungeon.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tilesets/garden.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/library.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/mario.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "tilesets/megaman.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "tilesets/warp-room.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tilesets/witch-shop.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/zelda.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "zelda.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1773,
+                "y": 275
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Brian/Projects/LandoSystems/game-project-template/assets/maps/tilesets",
+    "last.imagePath": "C:/Users/Brian/Projects/LudumDare/LudumDare57/assets/maps/tilesets",
+    "last.objectTemplatePath": "C:/Users/Brian/Projects/LandoSystems/game-project-template/assets/maps/templates",
+    "map.height": 16,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "5",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+    ],
+    "project": "game-template.tiled-project",
+    "recentFiles": [
+        "tilesets/megaman.tsx",
+        "tilesets/castlevania1.tsx",
+        "test/start.tmx",
+        "tilesets/zelda.tsx",
+        "tilesets/warp-room.tsx",
+        "tilesets/mario.tsx",
+        "test/home.tmx",
+        "tilesets/dungeon.tsx",
+        "tilesets/boss-room.tsx",
+        "start.tmx",
+        "tilesets/witch-shop.tsx",
+        "tilesets/library.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
